@@ -1,0 +1,7 @@
+site_name: Culture.pl 3.0 - Dokumentacja
+pages:
+  - 'Home': 'index.md'
+  - 'Typy zawartości': 'Typy-zawartosci-migracja.md'
+theme: readthedocs
+site_author: ""
+repo_url: https://github.com/culture-pl/culture-docs
