@@ -78,15 +78,15 @@ src/**App.vue** - główny komponent który ładuje pozostałe
 ### Komponenty odpowiadające za wyświetlanie paragrafów.  
   
 #### Składniki głównej treści
-**ParagraphTextFormatted.vue** - sformatowany tekst
+**ParagraphTextFormatted.vue** - sformatowany tekst  
 **ParagraphPicture.vue** - pojedyncze zdjęcie z opisem  
 **ParagraphQuotation.vue** - cytat  
-**ParagraphEmbeddedArticle.vue** - referencja - zajawka artykułu
+**ParagraphEmbeddedArticle.vue** - referencja - zajawka artykułu  
 **ParagraphEmbeddedGallery.vue** - referencja - galeria w formie karuzeli lub pojedynczego zdjęcia; referencja  
 **ParagraphEmbeddedVideo.vue** - referencja - odtwarzacz wideo  
 **ParagraphStructure.vue** - struktura działu, używany w treściach typu static_page (strona statyczna)
 #### Nagłówki
-**ParagraphHeroHeader.vue** - nagłowek typu HeroHeader
+**ParagraphHeroHeader.vue** - nagłowek typu HeroHeader  
 **ParagraphHeroHeaderArtist.vue** - nagłowek typu HeroHeaderArtist  
       
 
