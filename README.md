@@ -2,7 +2,7 @@
 
 [Typy zawartości do migracji](docs/Typy-zawartosci-migracja.md)
 
-#Frontend
+# Frontend
 
 [Komponenty](docs/Frontend-komponenty.md)
 

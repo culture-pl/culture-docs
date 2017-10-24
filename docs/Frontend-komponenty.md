@@ -1,13 +1,13 @@
-#Komponenty frontendowe
+# Komponenty frontendowe
 
-##MAIN
+## MAIN
 
 src/**App.vue** - główny komponent który ładuje pozostałe
 
 
-##COMMON (src/components/common)
+## COMMON (src/components/common)
 
-####Komponenty używane globalnie
+#### Komponenty używane globalnie
 
 **Main.vue** - komponent ładujący pozostałe elementy głównej zawartości  
 **SidebarLeft.vue** -  komponent odpowiedzialny za lewy pasek boczny w głównym layoucie   
@@ -28,7 +28,7 @@ src/**App.vue** - główny komponent który ładuje pozostałe
 **Footer.vue** - stopka  
 **FooterMenu.vue** - menu w stopce  
 
-####Komponenty używane w konkretnych typach zawartości lub w określonych warunkach
+#### Komponenty używane w konkretnych typach zawartości lub w określonych warunkach
 
 **GalleryPicture.vue** - pojedyncze zdjęcie, składnik galerii wyświtlany w typie zawartości galeria (gallery)  
 **GoogleMap.vue** - komponent wyświetlający mapę w postaci Google Maps używany w wydarzeniu (event) i miejscu (venue)  
@@ -48,8 +48,8 @@ src/**App.vue** - główny komponent który ładuje pozostałe
 **RelatedNodeVideo.vue** - powiązane wideo - używane w typie zawartości artysta (artist)     
 **Timeline.vue** - komponent odpowiedzialny za oś czasu w typie zawartości artysta (artist) 
 
-##MIXINS (src/components/mixins)
-###Części wspólne reużywane przez kilka komponentów
+## MIXINS (src/components/mixins)
+### Części wspólne reużywane przez kilka komponentów
 
 **imageMetaMixin.js** - mixin zawierający metody do pobierania metatagów zdjęć typu media image  
 **menuMixin.js** - mixin zawierający części wspólne komponentów odpowiedzialnych za menu   
@@ -57,8 +57,8 @@ src/**App.vue** - główny komponent który ładuje pozostałe
 **paragraphContentMixin.js** - mixin zawierający części wspólne komponentów odpowiedzialnych za paragrafy będące składnikami głównej treści   
 **withoutTranslations.js** - mixin zawierający części wspólne komponentów odpowiedzialnych za wyświetlanie podstron, które nie są pobierane z backendu a co za tym idzie nie mają własnej logiki przełączania języków   
 
-##CONTENT TYPES (src/components/pages/content-types)
-###Komponenty odpowiadające za wyświetlanie podstron dla różnych typów zawartości
+## CONTENT TYPES (src/components/pages/content-types)
+### Komponenty odpowiadające za wyświetlanie podstron dla różnych typów zawartości
 
 **Article.vue** - typ zawartości artykuł (article)  
 **Artist.vue** - typ zawartości artysta (artist)  
@@ -69,15 +69,15 @@ src/**App.vue** - główny komponent który ładuje pozostałe
 **Video.vue** - typ zawartości wideo (video)  
 **Work.vue** - typ zawartości dzieło (work)  
 
-##ERRORS (src/components/pages/errors)
-###Komponenty odpowiadające za wyświetlanie stron błędów
+## ERRORS (src/components/pages/errors)
+### Komponenty odpowiadające za wyświetlanie stron błędów
 **404.vue** - strona błedu nieznalezienia strony  
 **500.vue** - strona błedu komunikacji z API  
 
-##PARAGRAPHS (src/components/paragraphs)
-###Komponenty odpowiadające za wyświetlanie paragrafów.  
+## PARAGRAPHS (src/components/paragraphs)
+### Komponenty odpowiadające za wyświetlanie paragrafów.  
   
-####Składniki głównej treści
+#### Składniki głównej treści
 **ParagraphTextFormatted.vue** - sformatowany tekst
 **ParagraphPicture.vue** - pojedyncze zdjęcie z opisem  
 **ParagraphQuotation.vue** - cytat  
@@ -85,13 +85,13 @@ src/**App.vue** - główny komponent który ładuje pozostałe
 **ParagraphEmbeddedGallery.vue** - referencja - galeria w formie karuzeli lub pojedynczego zdjęcia; referencja  
 **ParagraphEmbeddedVideo.vue** - referencja - odtwarzacz wideo  
 **ParagraphStructure.vue** - struktura działu, używany w treściach typu static_page (strona statyczna)
-####Nagłówki
+#### Nagłówki
 **ParagraphHeroHeader.vue** - nagłowek typu HeroHeader
 **ParagraphHeroHeaderArtist.vue** - nagłowek typu HeroHeaderArtist  
       
 
-##SIDEBAR (src/components/sidebar)
-###Komponenty odpowiadające za wyświetlanie treści powiązanych z paragrafami (będącymi składnikami główej treści).
+## SIDEBAR (src/components/sidebar)
+### Komponenty odpowiadające za wyświetlanie treści powiązanych z paragrafami (będącymi składnikami główej treści).
 
 **RelatedNodeArticle.vue** - artykuł  
 **RelatedNodeEvent.vue** - wydarzenie  
