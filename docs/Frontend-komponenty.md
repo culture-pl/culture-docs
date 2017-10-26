@@ -51,6 +51,7 @@ src/**App.vue** - główny komponent który ładuje pozostałe
 ## MIXINS (src/components/mixins)
 ### Części wspólne reużywane przez kilka komponentów
 
+**highContrast.js** - mixin zawierający metody do sprawdzania aktualnego kontrastu
 **imageMetaMixin.js** - mixin zawierający metody do pobierania metatagów zdjęć typu media image  
 **menuMixin.js** - mixin zawierający części wspólne komponentów odpowiedzialnych za menu   
 **nodeMixin.js** - mixin zawierający części wspólne komponentów odpowiedzialnych za typy zawartości  
@@ -93,7 +94,8 @@ src/**App.vue** - główny komponent który ładuje pozostałe
 ## SIDEBAR (src/components/sidebar)
 ### Komponenty odpowiadające za wyświetlanie treści powiązanych z paragrafami (będącymi składnikami główej treści).
 
-**RelatedNodeArticle.vue** - artykuł  
+**RelatedNodeArticle.vue** - artykuł
+**RelatedNodeArtist.vue** - twórca  
 **RelatedNodeEvent.vue** - wydarzenie  
 **RelatedNodeGallery.vue** - galeria  
 **RelatedNodeVenue.vue** - miejsce  
