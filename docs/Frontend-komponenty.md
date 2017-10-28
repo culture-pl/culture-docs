@@ -27,7 +27,7 @@ src/**App.vue** - główny komponent który ładuje pozostałe
   
 **Footer.vue** - stopka  
 **FooterMenu.vue** - menu w stopce  
-**ContactPopup.vue** - popup z formularzem kontaktowym  
+**ContactPopup.vue** - popup z formularzem kontaktowym; wywoływany po kliknięciu w element z klasą "contact-popup"  
 
 #### Komponenty używane w konkretnych typach zawartości lub w określonych warunkach
   
