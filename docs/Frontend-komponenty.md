@@ -27,16 +27,16 @@ src/**App.vue** - główny komponent który ładuje pozostałe
   
 **Footer.vue** - stopka  
 **FooterMenu.vue** - menu w stopce  
+**ContactPopup.vue** - popup z formularzem kontaktowym  
 
 #### Komponenty używane w konkretnych typach zawartości lub w określonych warunkach
-
+  
 **GalleryPicture.vue** - pojedyncze zdjęcie, składnik galerii wyświtlany w typie zawartości galeria (gallery)  
 **GoogleMap.vue** - komponent wyświetlający mapę w postaci Google Maps używany w wydarzeniu (event) i miejscu (venue)  
 **GoogleStreetView.vue** - komponent wyświetlający mapę w postaci Google Street View używany w miejscu (venue)  
-**Member.vue** - osoba - wykorzystywany w ParagraphStructure  
-**NewsletterForm.vue** - formularz newslettera  
-**NewsletterBlock.vue** - newsletter w formie bloku (obudowuje NewsletterForm)  
-**NewsletterFooter.vue** - newsletter w stopce bloku (obudowuje NewsletterForm)  
+**Member.vue** - osoba - wykorzystywany w ParagraphStructure    
+**NewsletterBlock.vue** - newsletter w formie bloku (obudowuje Newsletter form)  
+**NewsletterFooter.vue** - newsletter w stopce bloku (obudowuje Newsletter form)  
 **NodeAuthor.vue** - blok z nazwą autora treści, jego miniatura, opisem oraz odnośnikami do profili na twitterze i facebooku  
 **NodeAuthorPublished.vue** - nazwa autora treści i data jej publikacji   
 **NodeAuthorSimple.vue** - nazwa autora treści  
@@ -47,6 +47,14 @@ src/**App.vue** - główny komponent który ładuje pozostałe
 **RelatedNodeGallery.vue** - powiązana galeria - używane w typie zawartości artysta (artist)  
 **RelatedNodeVideo.vue** - powiązane wideo - używane w typie zawartości artysta (artist)     
 **Timeline.vue** - komponent odpowiedzialny za oś czasu w typie zawartości artysta (artist) 
+  
+## FORMS (src/components/forms)
+### komponenty tworzące formularze
+  
+**Contact.vue** - formularz kontaktowy  
+**Newsletter.vue** - formularz newslettera  
+  
+**AutosizingTextarea.vue** - kontrolka textarea automatycznie dopasowująca swoją wysokość do ilości wpisanego tekstu
 
 ## MIXINS (src/components/mixins)
 ### Części wspólne reużywane przez kilka komponentów
