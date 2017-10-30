@@ -364,7 +364,8 @@ wykorzystania przy podręcznikach i przewodnikach.
 
 
 ## Wydarzenie live (Nazwa systemowa: live_events)
- Rodzaj wydarzenia z transmisją live i widgetami Twitter/Instagram.
+
+ Rodzaj wydarzenia z transmisją live i widgetami Twitter/Instagram.  **Nie migrowany**
 
 - Tytuł– Pole tytuł (Nazwa systemowa: title)
 - Język - wybór języka treść.
