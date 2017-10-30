@@ -224,27 +224,6 @@ artykułu.
 - Domain Access – wybór domen w których ma być wyświetlany wpis.
 
 
-## Strona książki (Nazwa systemowa: book)
-Książki posiadają wbudowaną nawigację hierarchiczną. Do
-wykorzystania przy podręcznikach i przewodnikach.
-- Tytuł – Pole tytuł (Nazwa systemowa: title)
-- Język - wybór języka treści
-- Treść - długi tekst i podsumowanie. (Nazwa systemowa: body)
-- Mapa XML witryny, 
-- Alias
-- Meta tagi 
-- Przekierowania URL
-- Autor 
-- Data publikacji
-- Data aktualizacji
-- Opublikowane 
-- Promowane na głównej
-- Rewizje
-
-### Pole nie migrowane
-- Domain Access – wybór domen w których ma być wyświetlany wpis.
-
-
 ## Twórca (Nazwa systemowa: artist)
  Rodzaj zawartosći do przechowywania informacji o twóracach.
 
@@ -362,6 +341,26 @@ wykorzystania przy podręcznikach i przewodnikach.
 - Domain Access – wybór domen w których ma być wyświetlany wpis.
 - Liferay: LR UUID, LR Group Id
 
+
+## Strona książki (Nazwa systemowa: book) **Nie migrowany**
+Książki posiadają wbudowaną nawigację hierarchiczną. Do
+wykorzystania przy podręcznikach i przewodnikach.
+- Tytuł – Pole tytuł (Nazwa systemowa: title)
+- Język - wybór języka treści
+- Treść - długi tekst i podsumowanie. (Nazwa systemowa: body)
+- Mapa XML witryny, 
+- Alias
+- Meta tagi 
+- Przekierowania URL
+- Autor 
+- Data publikacji
+- Data aktualizacji
+- Opublikowane 
+- Promowane na głównej
+- Rewizje
+
+### Pole nie migrowane
+- Domain Access – wybór domen w których ma być wyświetlany wpis.
 
 ## Wydarzenie live (Nazwa systemowa: live_events)
 
