@@ -63,6 +63,8 @@ Pełna lista pól: https://docs.google.com/spreadsheets/d/1PQ03X3oNQGFTX10DbkY-0
 
 
 ## Dzieło (Nazwa systemowa: works)
+
+ Pełna lista pól: https://docs.google.com/spreadsheets/d/1PQ03X3oNQGFTX10DbkY-0hIfTGYOpSYJUzXbmV7Dvuk/edit?usp=sharing#gid=1020239601
  Typ zawartości opisujące dzieło danego twórcy.
  
 - Tytuł – Pole tytuł (Nazwa systemowa: title)
@@ -117,6 +119,9 @@ zbierania ankiet.
 - Domain Access – wybór domen w których ma być wyświetlany wpis.
 
 ## Galeria (Nazwa systemowa: gallery)
+
+ Pełna lista pól: https://docs.google.com/spreadsheets/d/1PQ03X3oNQGFTX10DbkY-0hIfTGYOpSYJUzXbmV7Dvuk/edit?usp=sharing#gid=1438846677
+ 
  Rodzaj zawartości do załaczania kolekcji zdjeć. Galerię można dołączyć potem do
 artykułu.
 - Tytuł – Pole tytuł (Nazwa systemowa: title)
@@ -149,7 +154,8 @@ artykułu.
 
 
 ## Miejsce (Nazwa systemowa: venue)
- 
+
+  Pełna lista pól: https://docs.google.com/spreadsheets/d/1PQ03X3oNQGFTX10DbkY-0hIfTGYOpSYJUzXbmV7Dvuk/edit?usp=sharing#gid=1570726948
  Miejsce dowiązywane do wydarzeń.
  
 - Nazwa miejsca – Pole tytuł (Nazwa systemowa: title)
@@ -178,29 +184,10 @@ artykułu.
 
 ### Pole nie migrowane
 - Domain Access – wybór domen w których ma być wyświetlany wpis.
- 
-
-## Porównanie wczoraj i dziś (Nazwa systemowa: beforeafter)
-- Tytuł – Pole tytuł (Nazwa systemowa: title)
-- Język - wybór języka treści
-- Obraz wczoraj - pole wyboru pliku zdjęcia.
-- Obraz dziś - pole wyboru pliku zdjęcia.• Treści dot. projektów IAM – statystyka wpisów dotyczących IAM
-- Mapa XML witryny, 
-- Alias
-- Meta tagi 
-- Przekierowania URL
-- Autor 
-- Data publikacji
-- Data aktualizacji
-- Opublikowane 
-- Promowane na głównej
-- Rewizje
-
-### Pole nie migrowane
-- Domain Access – wybór domen w których ma być wyświetlany wpis.
 
 
 ## Statyczna strona (Nazwa systemowa: page)
+ Pełna lista pól: https://docs.google.com/spreadsheets/d/1PQ03X3oNQGFTX10DbkY-0hIfTGYOpSYJUzXbmV7Dvuk/edit?usp=sharing#gid=503121466
  Prosta, statyczna strona przydatna do podstron informacyjnych.
 - Tytuł – Pole tytuł (Nazwa systemowa: title)
 - Język - wybór języka treści
@@ -225,8 +212,8 @@ artykułu.
 
 
 ## Twórca (Nazwa systemowa: artist)
+ Pełna lista pól: https://docs.google.com/spreadsheets/d/1PQ03X3oNQGFTX10DbkY-0hIfTGYOpSYJUzXbmV7Dvuk/edit?usp=sharing#gid=1182164304
  Rodzaj zawartosći do przechowywania informacji o twóracach.
-
 - Imię i nazwisko twórcy – title
 - Język - wybór języka treśc
 - Opis - długi tekst i podsumowanie. (Nazwa systemowa: body)
@@ -262,8 +249,8 @@ artykułu.
 
 
 ## Wideo (Nazwa systemowa: video)
+ Pełna lista pól: https://docs.google.com/spreadsheets/d/1PQ03X3oNQGFTX10DbkY-0hIfTGYOpSYJUzXbmV7Dvuk/edit?usp=sharing#gid=1925349734
  Film z zewnętrznego serwisu, takiego, jak Youtube i Vimeo.
-
 - Tytuł – Pole tytuł (Nazwa systemowa: title)
 - Język - wybór języka treści
 - Opis filmu - długi tekst i podsumowanie. (Nazwa systemowa: body)
@@ -301,7 +288,7 @@ artykułu.
 
 
 ## Wydarzenie (Nazwa systemowa: event)
-
+ Pełna lista pól: https://docs.google.com/spreadsheets/d/1PQ03X3oNQGFTX10DbkY-0hIfTGYOpSYJUzXbmV7Dvuk/edit?usp=sharing#gid=1426338829
  Wydarzenie z datą opisem i powiązanym miejscem.
  
 - Tytuł– Pole tytuł (Nazwa systemowa: title)
@@ -362,9 +349,9 @@ wykorzystania przy podręcznikach i przewodnikach.
 ### Pole nie migrowane
 - Domain Access – wybór domen w których ma być wyświetlany wpis.
 
-## Wydarzenie live (Nazwa systemowa: live_events)
+## Wydarzenie live (Nazwa systemowa: live_events)  **Nie migrowany**
 
- Rodzaj wydarzenia z transmisją live i widgetami Twitter/Instagram.  **Nie migrowany**
+ Rodzaj wydarzenia z transmisją live i widgetami Twitter/Instagram.  
 
 - Tytuł– Pole tytuł (Nazwa systemowa: title)
 - Język - wybór języka treść.
@@ -400,8 +387,8 @@ wykorzystania przy podręcznikach i przewodnikach.
 
 
 
-## Box (Nazwa systemowa: box)
- Boxy wyświetlane w Top Menu. **Nie migrowany**
+## Box (Nazwa systemowa: box)  **Nie migrowany**
+ Boxy wyświetlane w Top Menu. 
  - Tytuł – Pole tytuł  
  - Język - wybór języka treści  
  - URL boksu - Link do którego prowadzi box.  
@@ -418,9 +405,9 @@ wykorzystania przy podręcznikach i przewodnikach.
  - Treści dot. projektów IAM – statystyka wpisów dotyczących IAM
 
 
-## FrontBox (Nazwa systemowa: frontbox) 
+## FrontBox (Nazwa systemowa: frontbox)  **Nie migrowany**
  
- Boks na stronie głównej. **Nie migrowany**
+ Boks na stronie głównej. 
  
 - Tytuł – Pole tytuł (Nazwa systemowa: title)
 - Język - wybór języka treści
@@ -447,9 +434,9 @@ wykorzystania przy podręcznikach i przewodnikach.
 - Rewizje
 
  
-## FrontSlide (Nazwa systemowa: front_slide) 
+## FrontSlide (Nazwa systemowa: front_slide)   **Nie migrowany**
 
-Slajd w sliderze u góry strony głównej i strony kategorii. **Nie migrowany**
+Slajd w sliderze u góry strony głównej i strony kategorii.
 - Powiązany artykuł - Odnośnik do encji – Autouzupełnianie
 - Tytuł slajdu – Pole tytuł
 - Obraz – pole do załadowania zdjęcia z mechanizmem crop
@@ -477,3 +464,23 @@ UTM Campaign
 - Opublikowane 
 - Promowane na głównej
 - Rewizje
+
+
+## Porównanie wczoraj i dziś (Nazwa systemowa: beforeafter) **Nie migrowany**
+- Tytuł – Pole tytuł (Nazwa systemowa: title)
+- Język - wybór języka treści
+- Obraz wczoraj - pole wyboru pliku zdjęcia.
+- Obraz dziś - pole wyboru pliku zdjęcia.• Treści dot. projektów IAM – statystyka wpisów dotyczących IAM
+- Mapa XML witryny, 
+- Alias
+- Meta tagi 
+- Przekierowania URL
+- Autor 
+- Data publikacji
+- Data aktualizacji
+- Opublikowane 
+- Promowane na głównej
+- Rewizje
+
+### Pole nie migrowane
+- Domain Access – wybór domen w których ma być wyświetlany wpis.
