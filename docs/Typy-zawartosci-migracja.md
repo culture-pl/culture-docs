@@ -2,7 +2,7 @@
 
 ## Artykuł - (Nazwa systemowa: article)
 
-Pełna lista pól: https://docs.google.com/spreadsheets/d/1PQ03X3oNQGFTX10DbkY-0hIfTGYOpSYJUzXbmV7Dvuk/edit#gid=0
+Pełna lista pól: https://docs.google.com/spreadsheets/d/1PQ03X3oNQGFTX10DbkY-0hIfTGYOpSYJUzXbmV7Dvuk/edit?usp=sharing#gid=0
  - Pole tytuł (title)
  - Język - wybór dostępnych jezyków.
  - Rodzaj treści - Referencja do słownika rodzajów treści, dla statystyk wiedzy. (pole niewidoczne)
