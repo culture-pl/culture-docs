@@ -4,7 +4,7 @@ Poniżej podane zostały przykłady użycia poszczególnych konfiguracji dla nie
 
 ## Header Title (simple_html) 
 ### Opis 
-Format tekstu z ograniczonym, podstawowym formatowaniem dedykowany wyłącznie dla tytułów nagłówków (np.: tytuły w header). Podczas wystawiania pola do json api tagi <p> są zamieniane na <span> (tag <p> nie jest dopuszczalny w <h1>); sam tag <p> jest zapisywany normalne w bazie danych tak żeby możliwe było formatowanie tekstu z poziomu CKEditor.
+Format tekstu z ograniczonym, podstawowym formatowaniem dedykowany wyłącznie dla tytułów nagłówków (np.: tytuły w header). Podczas wystawiania pola do json api tagi < p > są zamieniane na < span > (tag < p > nie jest dopuszczalny w < h1 >); sam tag < p > jest zapisywany normalne w bazie danych tak żeby możliwe było formatowanie tekstu z poziomu CKEditor.
 ### Przypadki użycia  
 field_hero_header_header, field_work_subtitle
 ### CKEditor  
