@@ -96,28 +96,6 @@ wiedzy)
 ### Pole nie migrowane
 - Domain Access – wybór domen w których ma być wyświetlany wpis.
 
-
-
-## Formularz (Nazwa systemowa: webform)
- Rodzaj zawartości do tworzenia formularzy kontaktowych lub do
-zbierania ankiet.
-- Tytuł – Pole tytuł (Nazwa systemowa: title)
-- Język - wybór języka treści
-- Opis, długi tekst i podsumowanie. (Nazwa systemowa: body)
-- Mapa XML witryny, 
-- Alias
-- Meta tagi 
-- Przekierowania URL
-- Autor 
-- Data publikacji
-- Data aktualizacji
-- Opublikowane 
-- Promowane na głównej
-- Rewizje
-
-### Pole nie migrowane
-- Domain Access – wybór domen w których ma być wyświetlany wpis.
-
 ## Galeria (Nazwa systemowa: gallery)
 
  Pełna lista pól: https://docs.google.com/spreadsheets/d/1PQ03X3oNQGFTX10DbkY-0hIfTGYOpSYJUzXbmV7Dvuk/edit?usp=sharing#gid=1438846677
@@ -471,6 +449,27 @@ UTM Campaign
 - Język - wybór języka treści
 - Obraz wczoraj - pole wyboru pliku zdjęcia.
 - Obraz dziś - pole wyboru pliku zdjęcia.• Treści dot. projektów IAM – statystyka wpisów dotyczących IAM
+- Mapa XML witryny, 
+- Alias
+- Meta tagi 
+- Przekierowania URL
+- Autor 
+- Data publikacji
+- Data aktualizacji
+- Opublikowane 
+- Promowane na głównej
+- Rewizje
+
+### Pole nie migrowane
+- Domain Access – wybór domen w których ma być wyświetlany wpis.
+ 
+
+## Formularz (Nazwa systemowa: webform) **Nie migrowany**
+ Rodzaj zawartości do tworzenia formularzy kontaktowych lub do
+zbierania ankiet.
+- Tytuł – Pole tytuł (Nazwa systemowa: title)
+- Język - wybór języka treści
+- Opis, długi tekst i podsumowanie. (Nazwa systemowa: body)
 - Mapa XML witryny, 
 - Alias
 - Meta tagi 
