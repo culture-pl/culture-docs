@@ -5,6 +5,9 @@ pages:
   - 'Dokumentacja API': 'Dokumentacja-API.md'
   - 'Formaty tekstu': 'Formaty-tekstu.md'
   - 'Komponenty front-end': 'Frontend-komponenty.md'
+  - 'Varnish': 'varnish.md'
+  - 'Konfiguracja frontend': 'serwery-frontend.md'
+  - 'Konfiguracja api': 'serwery-api.md'
 theme: readthedocs
 site_author: "Ratio Web"
 repo_url: https://github.com/culture-pl/culture-docs
