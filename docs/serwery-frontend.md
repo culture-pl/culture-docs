@@ -2,9 +2,9 @@
 
 ## Domeny
 
-Staging: https://api-staging.culture.pl
+Staging: https://frontend-staging.culture.pl
 
-Prod: https://api.culture.pl
+Prod: https://culture.pl
 
 
 ## Nginx
