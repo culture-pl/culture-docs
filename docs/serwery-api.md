@@ -1,5 +1,10 @@
 # Dokumentacja konfiguracji serwera API
 
+## Domeny
+
+Staging: https://api-staging.culture.pl
+Prod: https://api.culture.pl
+
 ## Cron 
 
 Dla każdego środowiska (prod, preprod), wymagane są dwa wpisy w crontab:
