@@ -1,5 +1,12 @@
 # Dokumentacja konfiguracja serwera FRONTEND
 
+## Domeny
+
+Staging: https://frontend-staging.culture.pl
+
+Prod: https://culture.pl
+
+
 ## Nginx
 
 Nie są wymagane szczególne wymagania jeśli chodzi o konfiguracje nginx. Konfiguracja w formie 
