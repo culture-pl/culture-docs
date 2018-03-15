@@ -34,19 +34,19 @@ Logując się na:
 
 Usuwanie cache:
 
-sudo czysc-api
+`sudo czysc-api`
 Usuwa cały cache z https://api.culture.pl
 
-sudo czysc-api-staging
+`sudo czysc-api-staging`
 Usuwa cały cache z https://api-staging.culture.pl
 ​
-sudo czysc-frontend
+`sudo czysc-frontend`
 Usuwa cały cache z https://frontend.culture.pl
 
-sudo czysc-frontend-staging
+`sudo czysc-frontend-staging`
 Usuwa cały cache z https://frontend-staging.culture.pl
 
-sudo listabanow-culture3
+`sudo listabanow-culture3`
 Pokazuje całą listę banów.
 
 Jeżeli cokolwiek Ci nie działa, to przeanalizuj reguły.
