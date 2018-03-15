@@ -28,3 +28,25 @@ Wymagane jest, by serwer varnish akceptował requesty BAN / URIBAN z serwera apl
 - [drupal.org - Cache tags](https://www.drupal.org/docs/8/api/cache-api/cache-tags-varnish)
 - [drupal.org - dokumentacja modułu varnish purger](https://www.drupal.org/project/varnish_purge) - tutaj opisana jest konfiguracja URIBAN
 
+# Wymuszenie czyszczenie cache (IAM)
+Logując się na:
+10.20.30.9 (aktualna produkcja):
+
+Usuwanie cache:
+
+sudo czysc-api
+Usuwa cały cache z https://api.culture.pl
+
+sudo czysc-api-staging
+Usuwa cały cache z https://api-staging.culture.pl
+​
+sudo czysc-frontend
+Usuwa cały cache z https://frontend.culture.pl
+
+sudo czysc-frontend-staging
+Usuwa cały cache z https://frontend-staging.culture.pl
+
+sudo listabanow-culture3
+Pokazuje całą listę banów.
+
+Jeżeli cokolwiek Ci nie działa, to przeanalizuj reguły.
