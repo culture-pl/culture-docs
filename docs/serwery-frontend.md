@@ -10,7 +10,7 @@ Prod: https://culture.pl
 ## Nginx
 
 Nie są wymagane szczególne wymagania jeśli chodzi o konfiguracje nginx. Konfiguracja w formie 
-.htaccess
+.htaccess (wymagana analogia w formacie konfiguracji nginx).
 
 ```
 <IfModule mod_rewrite.c>
